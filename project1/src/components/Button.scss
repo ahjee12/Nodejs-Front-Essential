@@ -1,0 +1,12 @@
+Button {
+  // width: 10vw;
+  background: white;
+  color: blue;
+  border: 1px solid skyblue;
+  text-align: right;
+  font-size: large;
+  & > span {
+    text-align: right;
+    color: red;
+  }
+}

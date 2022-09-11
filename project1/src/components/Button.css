@@ -1,0 +1,11 @@
+Button {
+  background: white;
+  color: blue;
+  border: 1px solid skyblue;
+  text-align: right;
+  font-size: large;
+}
+Button > span {
+  text-align: right;
+  color: red;
+}/*# sourceMappingURL=Button.css.map */
